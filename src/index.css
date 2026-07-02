@@ -50,6 +50,11 @@
   }
 }
 
+/* Fix Google Maps InfoWindow close button visibility */
+.gm-ui-hover-effect > span {
+  background-color: #666 !important;
+}
+
 body {
   margin: 0;
 }
