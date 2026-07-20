@@ -1,4 +1,4 @@
-# cycling-in-singapore / google_maps_data_styling_datasets
+# google_maps_data_styling_datasets
 
 ![Google Maps Data Styling Datasets](https://storage.ghost.io/c/c6/4d/c64da7e8-63a6-4cff-acdc-2782a6ebc377/content/images/size/w1600/2026/06/image-11.png " Google Maps Data Styling Datasets")
 
@@ -8,7 +8,7 @@ Taken from:
 - [Cloud based map styling for Google Maps](https://blog.afi.io/blog/cloud-based-map-styling-for-google-maps/)
 - [Google Maps data driven styling for boundaries](https://blog.afi.io/blog/google-maps-data-driven-styling-for-boundaries/)
 - [Create a heatmap in Google Maps with data driven styling](https://blog.afi.io/blog/style-google-maps-with-your-own-data-using-data-driven-styling/)
-- Upload datasets to the Google Cloud Console using the Maps Datasets API
+- [Upload and style datasets using the Maps Datasets API](https://www.afi.io/blog/upload-and-style-datasets-using-the-maps-datasets-api/)
 - [Add data to Google Maps with data driven styling](https://blog.afi.io/blog/style-google-maps-with-your-own-data-using-data-driven-styling/)
   
 How to run the app:
